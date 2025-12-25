@@ -1,4 +1,6 @@
 # Projet Réseaux – DNS, TCP, HTTP, HTTPS
+Projet pédagogique en Python démontrant les protocoles réseau fondamentaux : DNS, TCP, HTTP et HTTPS (TLS), avec analyse du trafic via Wireshark.
+
 
 ## 📌 Objectif
 Ce projet a pour but de comprendre le fonctionnement des communications réseau
